@@ -1,7 +1,7 @@
 /*
 ====================================Algoritmo-05==============================================
 Generar un algoritmo que permita calcular y mostrar el costo de una computadora de escritorio. 
-La misma es comprada por partes; CPU, teclado, pantalla, ratón.
+La misma es comprada por partes, CPU, teclado, pantalla, ratón.
 */
 package ape_semana4_soluciones_ricardo;
 /**
